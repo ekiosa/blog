@@ -1,6 +1,6 @@
-name: Sidikul Page
-url: ''
-description: Blog Page with Jekyll
+name: Jekyll Themes
+url: http://matt.harzewski.com
+description: Insert tagline here
 
 permalink: /themes/:title/
 
